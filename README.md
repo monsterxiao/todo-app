@@ -6,4 +6,4 @@ A full stack Todo-App (JavaScript / HTML / CSS / Node.js / Express)
 2. Open the files by Visual Studio Code;
 3. Open the terminal and enter "npm install";
 4. After step 3 is done, enter "npm run start";
-5. Open a browser and enter the url it shows up.
+5. Open a browser and enter the URL it shows up.

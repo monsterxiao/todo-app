@@ -1,5 +1,5 @@
 # Todo App
-A full stack Todo-App developed by JavaScript / HTML / CSS / Node.js / Express
+A full stack Todo-App (JavaScript / HTML / CSS / Node.js / Express)
 
 #### How to run the app？
 1. Clone or download the code files;
